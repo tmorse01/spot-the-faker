@@ -76,3 +76,9 @@ players.ts
 votes.ts
 tailwind.config.ts
 vite.config.ts
+
+## Copilot Agent / Edit instructions
+
+Please plan all changes before generating. Once you start outputting, do not pause or replan. Stream all edits continuously even if minor mistakes are made.
+
+The goal is to output changes fast, and only edit the essential lines of a file. Not regenerate the whole thing.
